@@ -52,4 +52,14 @@ your_project/
 ├─ params.json
 ```
 with params.json being choosen amongst params_IC.json, params_gla.json and params_gla_tasman.json
+Data_thkinit.nc must contain with the same name as following :
+  - thkinit
+  - thkobs
+  - uvelsurfobs (excepted Tasman)
+  - vvelsurfobs  (excepted Tasman)
+  - icemask
+  - icemaskobs (same dataset as icemask)
+  - usurf
+  - usurfobs (same dataset as usurf)
+  - velsurfobs_mag (only for Tasman since uvelsurfobs and vvelsurfobs are missing).
 
