@@ -51,7 +51,9 @@ your_project/
 │ └─ Data_thkinit.nc
 ├─ params.json
 ```
-with params.json being choosen amongst params_IC.json, params_gla.json and params_gla_tasman.json
+with params.json being choosen amongst params_IC.json, params_gla.json and params_gla_tasman.json.
+
+
 Data_thkinit.nc must contain with the same name as following :
   - thkinit
   - thkobs
